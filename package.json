@@ -16,7 +16,7 @@
     "express": "^4.16.2",
     "history": "^4.7.2",
     "jquery": "^2.2.4",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "1.0.17",
